@@ -252,8 +252,7 @@ a {
     display: flex;
     gap: 145px;
     align-items: center;
-    background-image: url("/imgs/finance-sync.png");
-    background-size: cover;
+    background-color: black;
 }
 
 .sync__text {
