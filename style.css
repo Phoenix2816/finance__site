@@ -250,21 +250,12 @@ a {
 
 
 
-
-
-
-
-
-
-
-
-
 .sync {
     height: 754px;
     display: flex;
     gap: 145px;
     align-items: center;
-    background-image: url("/imgs/finance-sync.png");
+    background-image: url("imgs/finance-sync.png");
     background-size: cover;
 }
 
